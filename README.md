@@ -1,5 +1,7 @@
 # go-commons-lang
 
+This i a fork comming from: https://github.com/agrison/go-commons-lang
+
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
 [![Go Report Card](https://goreportcard.com/badge/github.com/agrison/go-commons-lang)][goreportcard]
