@@ -1,6 +1,6 @@
 # go-commons-lang
 
-This i a fork comming from: https://github.com/agrison/go-commons-lang
+This is a my fork comming from: https://github.com/agrison/go-commons-lang :)
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
@@ -43,13 +43,9 @@ func main() {
 ## Installation
 
 ```sh
-go get github.com/agrison/go-commons-lang
+go get github.com/josdam/go-commons-lang
 ```
 
-## Join
-
-PRs are more than welcome :)
-
-## Author
+## Thanks to the original Author
 
 [Alexandre Grison](https://github.com/agrison) and obviously all the contributors of the original Apache Commons Lang.
